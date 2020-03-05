@@ -7,9 +7,11 @@ h1{
 }
 h2{
     font-family:sans-serif;
+    color: white; 
 }
 body{ 
-    background-image:https://image.shutterstock.com/image-vector/web-development-coding-cross-platform-600w-1128653108.jpg; 
-
+    background-image:url('https://image.shutterstock.com/image-vector/web-development-coding-cross-platform-600w-1128653108.jpg') no-repeat; 
+background-size:cover;
+background-repeat: no-repeat;
 
 }
