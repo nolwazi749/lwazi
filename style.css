@@ -13,8 +13,5 @@ h2{
 body{ 
     background-image:url("https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg");
 background-repeat: no-repeat;
-background-size: cover;
-    border-color:blue;
-    border-width: 80vh;
-    border-style: solid;
+background-size: cover; 
   }
