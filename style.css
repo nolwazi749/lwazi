@@ -21,6 +21,7 @@ background-size: cover;
     border-width: 6px;
     border-color: yellowgreen;
     border-style:solid;
+    display: inline-table;
     float:end;
       
   }
