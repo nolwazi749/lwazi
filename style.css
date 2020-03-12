@@ -19,9 +19,14 @@ background-size: cover;
       margin-left:20px;
   }
   ul {
-color:white;
-font-style:italic;
+color:black;
 
   }
+  #navbar {
+font-style: italic;
+color:white;
+background-color: darkslateblue;
+  }
+
   
   
